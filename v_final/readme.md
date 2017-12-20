@@ -3,9 +3,7 @@
 ### Initial Setup
 Add Landing Page
 Add Campgrounds Page that lists all campgrounds
-Each Campground has:
-Name
-Image
+Each Campground has: Name Image
 
 ### Layout and Basic Styling
 Create our header and footer partials
@@ -83,7 +81,7 @@ Add links to navbar
 ### Auth Step. 5 - Show/Hide Links
 Show/hide auth links in navbar
 
-## Refactor The Routes
+### Refactor The Routes
 Use Express router to reoragnize all routes
 
 ### Users + Comments
@@ -96,27 +94,15 @@ Save username+id to newly created campground
 
 ### TODOS
 Add "back" redirect to login
-
 Add method-override
-
 BOOTSTRAP NAV COLLPASE JS
-
 Flash Messages
-
 Refactor container div to header
-
 Show/hide delete and update buttons
-
 Style login/register forms
-
 Random Background Landing Page
-
 Refactor middleware
-
 Change styling in show template - comment delete/update
-
 UPATE/DELETE CAMPGROUND
-
 BOOTSTRAP NAV COLLPASE JS
-
 Refactor container div to header
