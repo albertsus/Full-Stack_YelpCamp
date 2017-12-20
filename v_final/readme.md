@@ -94,15 +94,27 @@ Save username+id to newly created campground
 
 ### TODOS
 Add "back" redirect to login
+
 Add method-override
+
 BOOTSTRAP NAV COLLPASE JS
+
 Flash Messages
+
 Refactor container div to header
+
 Show/hide delete and update buttons
+
 Style login/register forms
+
 Random Background Landing Page
+
 Refactor middleware
+
 Change styling in show template - comment delete/update
+
 UPATE/DELETE CAMPGROUND
+
 BOOTSTRAP NAV COLLPASE JS
+
 Refactor container div to header
