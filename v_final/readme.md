@@ -1,4 +1,4 @@
-# YelpCamp
+# Project Process
 
 ### Initial Setup
 * Add Landing Page
